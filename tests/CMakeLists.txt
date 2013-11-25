@@ -592,6 +592,8 @@ set(COMMON_SOURCES
   ../src/PolySetEvaluator.cc 
   ../src/GeometryCache.cc 
   ../src/clipper-utils.cc 
+  ../src/polyclipping/clipper.cpp
+  ../src/polyset-utils.cc 
   ../src/Tree.cc
   ../src/lodepng.cpp)
 
