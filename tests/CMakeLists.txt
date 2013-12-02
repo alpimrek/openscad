@@ -579,7 +579,6 @@ set(CGAL_SOURCES
   ../src/cgalutils.cc 
   ../src/CGALEvaluator.cc
   ../src/CGALCache.cc
-  ../src/PolySetCGALEvaluator.cc
   ../src/CGAL_Nef_polyhedron_DxfData.cc
   ../src/cgaladv_minkowski2.cc
   ../src/Polygon2d-CGAL.cc
@@ -589,7 +588,6 @@ set(CGAL_SOURCES
 set(COMMON_SOURCES
   ../src/nodedumper.cc 
   ../src/traverser.cc 
-  ../src/PolySetEvaluator.cc 
   ../src/GeometryCache.cc 
   ../src/clipper-utils.cc 
   ../src/polyclipping/clipper.cpp
